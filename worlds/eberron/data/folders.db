@@ -1,4 +1,5 @@
 {"name":"Races","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"2Kmo7jJRmqZfFaNo"}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"89Z8OwBvWaCwXeiB"}
 {"name":"Classes and Subclasses","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"93Z7IANCbDH1Tnig"}
 {"name":"Artificer","type":"Item","sort":null,"flags":{},"parent":"93Z7IANCbDH1Tnig","sorting":"a","_id":"Nf6QmObFx8oggGus"}
 {"_id":"O3KhPIevsKoEgXeu","name":"GM Scenes","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#ff0000"}
@@ -9,4 +10,3 @@
 {"_id":"nmj6ekxTM9Eu1CCq","name":"Player Scenes","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#001eff"}
 {"name":"Psionics","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"x7j9UijhrTKGYOpH"}
 {"name":"PCs","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#0062ff","_id":"z4XZYw6wiAzn9faL"}
-{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"89Z8OwBvWaCwXeiB"}
