@@ -1,0 +1,20 @@
+{
+  "name": "spellarena",
+  "title": "Spellarena Battlemap Collection",
+  "description": "<p>A collection of ready-to-play fantasy maps by Spellarena. All maps are pre-configured for Foundry VTT with walls, doors and light sources.</p>",
+  "version": "1.3.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Spellarena",
+  "packs": [
+    {
+      "name": "spellarena",
+      "label": "Spellarena Battlemaps",
+      "path": "/packs/spellarena.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://spellarena.com/",
+  "manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/spellarena/module.json",
+  "download": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/spellarena/spellarena.zip"
+}

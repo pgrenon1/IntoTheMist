@@ -1,0 +1,20 @@
+{
+  "name": "dww-battlemaps",
+  "title": "Domille's Wondrous Works - Battlemap Collection",
+  "description": "<p>This module includes 27 free, ready to play, battlemaps created by Domille's Wondrous Works. Check out DWW Patreon for additional variations as well as a bigger variety of maps.</p>",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Domille's Wondrous Works",
+  "packs": [
+    {
+      "name": "dww-maps-v1",
+      "label": "Domille's Wondrous Works Battlemaps",
+      "path": "/packs/dww-maps-v1.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/dww",
+  "manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/dww-battlemaps/module.json",
+  "download": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/dww-battlemaps/dww-battlemaps.zip"
+}

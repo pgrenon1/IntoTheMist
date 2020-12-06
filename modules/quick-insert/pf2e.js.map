@@ -1,0 +1,1 @@
+{"version":3,"file":"pf2e.js","sources":["../src/systems/pf2e.ts"],"sourcesContent":["// Pathfinder 2e integration\nexport const SYSTEM_NAME = \"pf2e\";\n\nexport function init(): void {\n  return;\n}\n"],"names":[],"mappings":"AAAA;MACa,WAAW,GAAG,OAAO;SAElB,IAAI;IAClB,OAAO;AACT;;;;"}

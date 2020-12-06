@@ -1,0 +1,32 @@
+{
+  "name": "baileywiki-maps",
+  "title": "Baileywiki Maps Pack",
+  "description": "<p>These are free maps for Foundry VTT meant to have long lifespan and replayability in your game and in future games. These maps can be upgraded, modified and extended to accommodate differences in party and story. Find out more at my Patreon project at https://www.patreon.com/baileywiki</p>",
+  "version": "0.1.9",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.7.7",
+  "author": "Baileywiki",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Baileywiki Maps",
+      "path": "/packs/baileywiki-maps.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "actors",
+      "label": "Baileywiki Maps",
+      "path": "/packs/baileywiki-actors.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "journals",
+      "label": "Baileywiki Maps",
+      "path": "/packs/baileywiki-journals.db",
+      "entity": "JournalEntry"
+    }
+  ],
+  "url": "https://www.patreon.com/baileywiki",
+  "manifest": "https://storage.googleapis.com/baileywiki/free/latest-version/module.json",
+  "download": "https://storage.googleapis.com/baileywiki/free/latest-version/baileywiki-maps.zip"
+}
